@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Human Access</title>
+    <link>http://humanaccess.github.io/tags/</link>
+    <description>Recent content in Tags on Human Access</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Thu, 19 Jan 2023 19:22:48 +1100</lastBuildDate><atom:link href="http://humanaccess.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boggle talk</title>
+      <link>http://humanaccess.github.io/tags/boggle-talk/</link>
+      <pubDate>Thu, 19 Jan 2023 19:52:53 +1100</pubDate>
+      
+      <guid>http://humanaccess.github.io/tags/boggle-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Officeipsum</title>
+      <link>http://humanaccess.github.io/tags/officeipsum/</link>
+      <pubDate>Thu, 19 Jan 2023 19:52:53 +1100</pubDate>
+      
+      <guid>http://humanaccess.github.io/tags/officeipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corporate jargon</title>
+      <link>http://humanaccess.github.io/tags/corporate-jargon/</link>
+      <pubDate>Thu, 19 Jan 2023 19:51:37 +1100</pubDate>
+      
+      <guid>http://humanaccess.github.io/tags/corporate-jargon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holistic hogwash</title>
+      <link>http://humanaccess.github.io/tags/holistic-hogwash/</link>
+      <pubDate>Thu, 19 Jan 2023 19:51:37 +1100</pubDate>
+      
+      <guid>http://humanaccess.github.io/tags/holistic-hogwash/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

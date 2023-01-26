@@ -1,0 +1,15 @@
+{
+  "lang": "en",
+  "name": "Human Access Web Development",
+  "short_name": "Human Access",
+  "description": "Phil Brown Web Developer",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/",
+  "display": "minimal-ui",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
